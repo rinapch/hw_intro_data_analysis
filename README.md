@@ -1,3 +1,3 @@
 # hw_minor_2ndcourse
 
-Тут лежат домашки с курса "Введение в анализ данных"
+"Introduction to Data Analysis" homeworks
